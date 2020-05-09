@@ -2,7 +2,7 @@ pragma solidity >= 0.5.0 < 0.7.0;
 
 
 import "./ERC20Basic.sol";
-import "./SafeMath.sol";
+import "github.com/haishih/ERC20/SafeMath.sol";
 
 
 /**
